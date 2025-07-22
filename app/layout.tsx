@@ -6,10 +6,10 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Narco RP México - Servidor FiveM",
+  title: "𝐌𝐀-ᴄᴏᴀʜᴜɪʟᴀ ᴄᴏɴᴄᴇᴘᴛ. - Web",
   description:
-    "El servidor más intenso de FiveM Roleplay mexicano. Cárteles vs Fuerzas del Orden. ¿Estás listo para los verdaderos topes?",
-  keywords: "FiveM, Roleplay, México, Narco RP, GTA V, Servidor",
+    "𝐌𝐀-ᴄᴏᴀʜᴜɪʟᴀ ᴄᴏɴᴄᴇᴘᴛ.",
+  keywords: "FiveM, Roleplay, México, 𝐌𝐀-ᴄᴏᴀʜᴜɪʟᴀ ᴄᴏɴᴄᴇᴘᴛ., GTA V, Servidor",
     generator: 'v0.dev'
 }
 
